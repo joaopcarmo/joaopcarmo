@@ -1,7 +1,8 @@
-👋 Hi, my name is João Pedro, I'm 20 years old and I study Systems Analysis and Development at PUC Minas.
-👀 I’m interested in starting an internship in the software development area.
-🌱 I’m currently learning C#, JavaScript, React, and Node.js.
-⚡ Fun fact: I am passionate about sports and music.
+👋 Hi, my name is João Pedro, I'm 20 years old and I study Systems Analysis and Development at PUC Minas. </br>
+👀 I’m interested in starting an internship in the software development area. </br>
+🌱 I’m currently learning C#, JavaScript, React, and Node.js. </br>
+📚 Planning to explore Go and PHP in the future. </br>
+⚡ I am very passionate about sports and music.
 
 <!---
 joaopcarmo/joaopcarmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
