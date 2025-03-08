@@ -1,7 +1,7 @@
 👋 Hi, my name is João Pedro, I'm 21 years old and I study Systems Analysis and Development at PUC Minas. </br>
 👀 I’m interested in starting an internship in the software development area. </br>
-🌱 I’m currently learning C#, JavaScript, React, and Node.js. </br>
-📚 Planning to explore Go, PHP and Flutter in the future. </br>
+🌱 I’m currently learning Java, Spring Boot, React, MySQL. </br>
+📚 Planning to explore Go, Docker and React Native in the future. </br>
 ⚡ I am very passionate about sports and music.
 
 <!---
