@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning **Java, Spring Boot and React**
 
 - 👀 I’m interested in starting an internship in the software development area.
-- 
+  
 - 📚 Planning to explore Go in the future.
-- 
+  
 - 📫 How to reach me **joaocarmolp@gmail.com**
 
 - ⚡ Fun fact **I am very passionate about sports and music.**
