@@ -75,10 +75,10 @@
 
 ### 🎓 Certificações e Cursos
 
-- 🏅 Formação Java e Spring Boot – [Alura](https://cursos.alura.com.br)  
-- 🏅 React para Iniciantes – [DIO](https://www.dio.me/)  
-- 🏅 Lógica de Programação – [Curso em Vídeo](https://www.cursoemvideo.com/)  
-- 🏅 MySQL com PHPMyAdmin – [Udemy](https://www.udemy.com/)
+- 🏅 Formação Java e Spring Boot – [Nelio Alves - DevSuperior](https://www.udemy.com/)  
+- 🏅 React para Iniciantes – [Udemy](https://www.udemy.com/)  
+- 🏅 Lógica de Programação – [Nelio Alves - DevSuperior](https://devsuperior.com.br/colecao-fundamentos-de-programacao)  
+- 🏅 DevOps * Agile Methodologies – [FIAP](https://www.fiap.com.br/)
 
 ---
 
