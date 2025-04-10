@@ -3,18 +3,18 @@
 
 ---
 
-### 📍 Sobre mim
+### 📍 About Me
 
-- 🔭 Atualmente trabalhando no projeto [**StockWise**](https://github.com/joaopcarmo/StockWise)  
-- 🌱 Estudando **Java, Spring Boot e React**  
-- 👀 Em busca de uma oportunidade de **estágio** na área de desenvolvimento  
-- 📚 Planejo aprender **Go** em breve  
-- 📫 Como falar comigo: **joaocarmolp@gmail.com**  
-- ⚡ Curiosidade: **Apaixonado por esportes e música**
+- 🔭 Currently working on [**StockWise**](https://github.com/joaopcarmo/StockWise)  
+- 🌱 Learning **Java, Spring Boot, and React**  
+- 👀 Looking for an opportunity as a **software development intern**  
+- 📚 Planning to study **Go** soon  
+- 📫 Reach me at: **joaocarmolp@gmail.com**  
+- ⚡ Fun fact: **Passionate about sports and music**
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/joaopcarmo" target="blank">
@@ -30,25 +30,24 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Highlighted Projects
 
 - 🔹 [**StockWise**](https://github.com/joaopcarmo/StockWise)  
-  Aplicação para gestão de ativos financeiros e investimentos de clientes.  
-  Permite o cadastro, consulta e controle de ações, fundos imobiliários, criptoativos, entre outros.  
+  Application for managing financial assets and client investments.  
+  Allows registering, consulting, and monitoring stocks, real estate funds, cryptocurrencies, and more.  
   **Stack:** Java, Spring Boot, REST, MySQL, HTML, CSS, React
 
 - 🔹 [**NLW Events**](https://github.com/joaopcarmo/Nlw-Events)  
-  Sistema de gerenciamento de eventos com criação, administração e sistema de inscrições com indicações e ranking.   
+  Event management system with creation, administration, registration, referral system, and ranking.  
   **Stack:** Java, Spring Boot, MySQL
 
 - 🔹 [**To-Do List**](https://github.com/joaopcarmo/To-Do-List)  
-  Aplicação de linha de comando para gerenciamento de tarefas (To-Do List) com menus interativos via terminal.    
+  Command-line task management application (To-Do List) with interactive menus via terminal.  
   **Stack:** JavaScript, Node.js
-
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies & Tools
 
 #### ⚙️ Back-end
 <p>
@@ -66,23 +65,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-#### 🛠️ Ferramentas
+#### 🛠️ Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-### 🎓 Certificações e Cursos
+### 🎓 Certifications & Courses
 
-- 🏅 Formação Java e Spring Boot – [Nelio Alves - DevSuperior](https://www.udemy.com/)  
-- 🏅 React para Iniciantes – [Udemy](https://www.udemy.com/)  
-- 🏅 Lógica de Programação – [Nelio Alves - DevSuperior](https://devsuperior.com.br/colecao-fundamentos-de-programacao)  
-- 🏅 DevOps * Agile Methodologies – [FIAP](https://www.fiap.com.br/)
+- 🏅 Java & Spring Boot Course – [Nelio Alves - DevSuperior](https://www.udemy.com/)  
+- 🏅 React for Beginners – [Udemy](https://www.udemy.com/)  
+- 🏅 Programming Logic – [Nelio Alves - DevSuperior](https://devsuperior.com.br/colecao-fundamentos-de-programacao)  
+- 🏅 DevOps & Agile Methodologies – [FIAP](https://www.fiap.com.br/)
 
 ---
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopcarmo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
