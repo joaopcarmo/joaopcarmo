@@ -26,6 +26,9 @@
   <a href="https://www.leetcode.com/joaocarmo" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
   </a>
+  <a href="https://www.hackerrank.com/joaocarmolp" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/>
+  </a>
 </p>
 
 ---
