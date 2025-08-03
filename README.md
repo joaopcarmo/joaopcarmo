@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
-<h3 align="center">💻 A passionate developer from Brazil | 🎓 Student at PUC Minas</h3>
+<h3 align="center">💻 QA Intern from Brazil | 🎓 Student at PUC Minas</h3>
 
 ---
 
 ### 📍 About Me
 
-- 🔭 Currently working on [**StockWise**](https://github.com/joaopcarmo/StockWise)  
-- 🌱 Learning **Java, Spring Boot, and React**  
-- 👀 Looking for an opportunity as a **software development intern**  
-- 📚 Planning to study **Go** soon  
+- 🔍 Currently working as a **QA Intern**  
+- 🌱 Learning **Rest Assured**, **Postman**, and improving Java test automation skills  
+- 👀 Looking for new challenges in **QA and software testing**  
 - 📫 Reach me at: **joaocarmolp@gmail.com**  
 - ⚡ Fun fact: **Passionate about sports and music**
 
@@ -33,20 +32,13 @@
 
 ---
 
-### 🚀 Highlighted Projects
+### 🧪 QA & Test Automation Skills
 
-- 🔹 [**StockWise**](https://github.com/joaopcarmo/StockWise)  
-  Application for managing financial assets and client investments.  
-  Allows registering, consulting, and monitoring stocks, real estate funds, cryptocurrencies, and more.  
-  **Stack:** Java, Spring Boot, REST, MySQL, HTML, CSS, React
-
-- 🔹 [**NLW Events**](https://github.com/joaopcarmo/Nlw-Events)  
-  Event management system with creation, administration, registration, referral system, and ranking.  
-  **Stack:** Java, Spring Boot, MySQL
-
-- 🔹 [**To-Do List**](https://github.com/joaopcarmo/To-Do-List)  
-  Command-line task management application (To-Do List) with interactive menus via terminal.  
-  **Stack:** JavaScript, Node.js
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/1678215?s=200&v=4" alt="Rest Assured" width="40" height="40"/>
+</p>
 
 ---
 
@@ -61,9 +53,7 @@
 
 #### 🎨 Front-end
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
@@ -71,16 +61,35 @@
 #### 🛠️ Tools
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
 
+### 🚀 Highlighted Projects
+
+- 🔹 [**StockWise**](https://github.com/joaopcarmo/StockWise)  
+  Application for managing financial assets and client investments.  
+  Allows registering, consulting, and monitoring stocks, real estate funds, cryptocurrencies, and more.  
+  **Stack:** Java, Spring Boot, REST, MySQL, HTML, CSS, React
+
+- 🔹 [**NLW Events**](https://github.com/joaopcarmo/Nlw-Events)  
+  Event management system with creation, administration, registration, referral system, and ranking.  
+  **Stack:** Java, Spring Boot, MySQL
+
+- 🔹 [**To-Do List**](https://github.com/joaopcarmo/To-Do-List)  
+  Command-line task management application (To-Do List) with interactive menus via terminal.  
+  **Stack:** JavaScript, Node.js
+---
+
 ### 🎓 Certifications & Courses
 
-- 🏅 Java & Spring Boot Course – [Nelio Alves - DevSuperior](https://www.udemy.com/)  
+- 🏅 Java & Spring Boot – [Nelio Alves - DevSuperior](https://www.udemy.com/)  
 - 🏅 React for Beginners – [Udemy](https://www.udemy.com/)  
-- 🏅 Programming Logic – [Nelio Alves - DevSuperior](https://devsuperior.com.br/colecao-fundamentos-de-programacao)  
+- 🏅 Programming Logic – [DevSuperior](https://devsuperior.com.br/)  
 - 🏅 DevOps & Agile Methodologies – [FIAP](https://www.fiap.com.br/)
+- Manual Software Testing - [Instituto Eldorado](https://www.eldorado.org.br/)
+- 🏅 API Testing with Rest Assured – *(In Progress)*
 
 ---
 
